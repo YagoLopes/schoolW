@@ -1,0 +1,45 @@
+{
+ "name": "school-w",
+ "version": "0.1.0",
+ "private": true,
+ "dependencies": {
+  "@material-ui/core": "^4.7.2",
+  "@material-ui/icons": "^4.5.1",
+  "@rocketseat/unform": "^1.5.1",
+  "axios": "^0.18.0",
+  "chart.js": "^2.7.2",
+  "notistack": "^0.9.7",
+  "react": "^16.4.2",
+  "react-alert": "^5.5.0",
+  "react-alert-template-basic": "^1.0.0",
+  "react-chartjs-2": "^2.7.4",
+  "react-dom": "^16.4.2",
+  "react-redux": "^7.1.0-rc.1",
+  "react-responsive-modal": "^3.5.1",
+  "react-router-dom": "^4.3.1",
+  "react-scripts": "1.1.5",
+  "recharts": "^2.0.0-beta.1",
+  "redux": "^4.0.1",
+  "styled-components": "^4.4.1",
+  "unform": "^1.2.3",
+  "yup": "^0.27.0"
+ },
+ "scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test --env=jsdom",
+  "eject": "react-scripts eject"
+ },
+ "description": "School-W uma plataforma especializada em gerencia escolar",
+ "main": "index.js",
+ "devDependencies": {
+  "eslint": "^6.7.1",
+  "eslint-config-airbnb": "^18.0.1",
+  "eslint-plugin-import": "^2.18.2",
+  "eslint-plugin-jsx-a11y": "^6.2.3",
+  "eslint-plugin-react": "^7.17.0",
+  "eslint-plugin-react-hooks": "^1.7.0"
+ },
+ "author": "Yago Lopes Lázaro",
+ "license": "ISC"
+}
